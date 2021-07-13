@@ -11,7 +11,6 @@ using WPFServer.Models;
 
 namespace WPFServer.Controllers
 {
-    [EnableCors("*", "*", "*")]
     public class UsersController : ApiController
     {
         public string Get()
