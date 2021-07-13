@@ -1,7 +1,7 @@
 {
-  "name": "Hello World",
-  "description": "Grid extenstion",
-  "version": "1.4",
+  "name": "Web Server",
+  "description": "Sync users to web server",
+  "version": "1",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html"

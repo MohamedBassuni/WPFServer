@@ -13,10 +13,6 @@ namespace WPFServer.Controllers
 {
     public class UsersController : ApiController
     {
-        public string Get()
-        {
-            return "Working";
-        }
         [HttpPost]
         public HttpResponseMessage PostUsers(List<User> users)
         {

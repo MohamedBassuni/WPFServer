@@ -14,6 +14,7 @@ namespace WPFServer
     public class MainWindowViewModel
     {
         public Context Context { get { return Context.Instance; } }
+
         public ICommand StartConnection { get; set; }
         public ICommand StopConnection { get; set; }
 

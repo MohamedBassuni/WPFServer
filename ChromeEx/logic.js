@@ -11,8 +11,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 })
 
-
-
 function LoadData(pageNumber) {
 	showSucessMessage(false);
 	showErrorMessage(false);
@@ -137,6 +135,7 @@ function ShowHideSpinner(showSpinner) {
 		paging.style.display = "block";
 	}
 }
+
 function showSucessMessage(showMessage) {
 	var sucessAlter = document.getElementById("sucessAlter");
 	var errorAlter = document.getElementById("errorAlter");
@@ -149,6 +148,7 @@ function showSucessMessage(showMessage) {
 		errorAlter.style.display = "none";
 	}
 }
+
 function showErrorMessage(showMessage) {
 	var sucessAlter = document.getElementById("sucessAlter");
 	var errorAlter = document.getElementById("errorAlter");

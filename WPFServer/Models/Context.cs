@@ -10,6 +10,7 @@ namespace WPFServer.Models
     public class Context
     {
         public ObservableCollection<User> Users { get; set; }
+
         public Context()
         {
             Users = new ObservableCollection<User>();
