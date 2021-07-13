@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFServer", "WPFServer\WPFServer.csproj", "{802D29AD-D9F4-4DA8-BA5C-AADBBCEE2962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChromeEx", "ChromeEx", "{E8FB636B-8304-4059-93B4-7051207F3008}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Bassuni\Desktop\Chrome\bootstrap.min.css = C:\Users\Bassuni\Desktop\Chrome\bootstrap.min.css
+		C:\Users\Bassuni\Desktop\Chrome\Index.html = C:\Users\Bassuni\Desktop\Chrome\Index.html
+		C:\Users\Bassuni\Desktop\Chrome\logic.js = C:\Users\Bassuni\Desktop\Chrome\logic.js
+		C:\Users\Bassuni\Desktop\Chrome\manifest.json = C:\Users\Bassuni\Desktop\Chrome\manifest.json
+		C:\Users\Bassuni\Desktop\Chrome\Users-icon-128.png = C:\Users\Bassuni\Desktop\Chrome\Users-icon-128.png
+		C:\Users\Bassuni\Desktop\Chrome\Users-icon-16.png = C:\Users\Bassuni\Desktop\Chrome\Users-icon-16.png
+		C:\Users\Bassuni\Desktop\Chrome\Users-icon-48.png = C:\Users\Bassuni\Desktop\Chrome\Users-icon-48.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802D29AD-D9F4-4DA8-BA5C-AADBBCEE2962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802D29AD-D9F4-4DA8-BA5C-AADBBCEE2962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802D29AD-D9F4-4DA8-BA5C-AADBBCEE2962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802D29AD-D9F4-4DA8-BA5C-AADBBCEE2962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450CF291-F6DD-4DB2-9CFF-5265057B38EA}
+	EndGlobalSection
+EndGlobal
